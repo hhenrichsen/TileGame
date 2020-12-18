@@ -1,0 +1,1 @@
+conan install . -s build_type=Release --install-folder=cmake-build-debug
