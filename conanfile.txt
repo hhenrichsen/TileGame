@@ -1,6 +1,6 @@
 [requires]
 sfml/2.5.1@bincrafters/stable
-entt/3.x.y-WIP@skypjack/stable
+entt/3.5.2@skypjack/stable
 nlohmann_json/3.9.1
 
 [options]
