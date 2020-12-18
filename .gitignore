@@ -11,3 +11,9 @@ CTestTestfile.cmake
 _deps
 cmake-build-debug
 .idea/
+conan.lock
+conanbuildinfo.cmake
+conanbuildinfo.txt
+conaninfo.txt
+graph_info.json
+TileGame.cbp
